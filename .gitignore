@@ -1,0 +1,18 @@
+# Python-related
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+*.env
+
+# Flask-related
+instance/
+.pytest_cache/
+
+# VS Code-related
+.vscode/
+
+# Mac OS-related
+.DS_Store
